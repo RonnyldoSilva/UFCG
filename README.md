@@ -1,3 +1,3 @@
 # UFCG: ATAL - Análise técnica de algoritmos
 
-Site: https://sites.google.com/site/atalufcg/home
+Site da disciplina: https://sites.google.com/site/atalufcg/home
