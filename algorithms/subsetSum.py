@@ -1,5 +1,7 @@
 import sys
 
+# This algorithm uses backtrack to solve the subset sum problem.
+
 def subSetSumRecur(mySet, n, goal, lis):
   if(goal==0):
     return True
