@@ -1,0 +1,12 @@
+Problema Prático 1 - ATAL
+
+	Mais um semestre se passou na UFCG e ao começar o novo semestre a coordenação
+quer listar os alunos estudantes de computação por ordem da matricula deles.
+O problema é que a lista de estudantes está ordenada por ordem crescente e o
+coordenador pediu para que fosse ordenado em ordem decrescente, outro problema é que
+tendo em vista que são muitos alunos, o algoritmo implementado é muito lento.
+
+	Sua missão nesse problema é modificar e otimizar o algoritmo "retorna_matriculas_decrescente"
+do arquivo 'algorithms.py' na pasta 'atal' desse repositório para que retorne a lista em tempo 
+hábil e em ordem decrescente.
+
